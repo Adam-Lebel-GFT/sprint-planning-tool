@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporary data
+*.log
+*.tmp
+
+# Test data files (don't upload real client files)
+Planning*.xlsx
+Backlog*.xls
+Parameters*.xlsx
+results*.xlsx
